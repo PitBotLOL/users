@@ -1,1 +1,1 @@
-['Wordpass', 'skillcapofpit', 'fvtvrc']
+['skillcapofpit', 'fvtvrc']
