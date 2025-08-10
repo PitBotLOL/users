@@ -1,1 +1,1 @@
-['fvtvrc', 'Vexlorin', 'skillcapofpit']
+['fvtvrc', 'skillcapofpit']
