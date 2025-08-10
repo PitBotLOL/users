@@ -1,1 +1,1 @@
-['fvtvrc', 'wordpass']
+['wordpass']
