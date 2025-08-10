@@ -1,1 +1,1 @@
-['fvtvrc', 'closingmydoor', 'QihuoXiaoMao']
+['closingmydoor', 'QihuoXiaoMao']
