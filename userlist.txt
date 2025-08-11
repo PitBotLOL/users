@@ -1,1 +1,1 @@
-['edgars_p_', 'istes_', 'fvtvrc']
+['istes_', 'fvtvrc']
