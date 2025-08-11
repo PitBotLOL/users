@@ -1,1 +1,1 @@
-['marquder', 'ICOINFLIP8FIGS', 'snowmenarmy']
+['marquder', 'ICOINFLIP8FIGS']
