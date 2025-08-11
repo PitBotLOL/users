@@ -1,1 +1,1 @@
-['ICOINFLIP8FIGS', 'RINGMINER9000v3', 'origmass', 'michaeljez', '0iqnub']
+['ICOINFLIP8FIGS', 'origmass', 'michaeljez', '0iqnub']
