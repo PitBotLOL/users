@@ -1,1 +1,1 @@
-['fvtvrc', 'marquder', 'ICOINFLIP8FIGS']
+['marquder', 'ICOINFLIP8FIGS']
