@@ -1,1 +1,1 @@
-['ICOINFLIP8FIGS', 'hamwtf', 'marquder', 'backtopit', 'SkillCapofPit']
+['ICOINFLIP8FIGS', 'hamwtf', 'marquder', 'backtopit', 'SkillCapofPit', 'skillcapofpit']
