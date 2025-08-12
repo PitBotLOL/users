@@ -1,1 +1,1 @@
-['hamwtf', 'marquder', 'backtopit', 'SkillCapofPit']
+['marquder', 'backtopit', 'SkillCapofPit']
