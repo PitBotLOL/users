@@ -1,1 +1,1 @@
-['backtopit', 'SkillCapofPit']
+['SkillCapofPit']
