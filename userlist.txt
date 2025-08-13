@@ -1,1 +1,1 @@
-['FreakyNDangerous', 'Freakymode']
+['Freakymode']
