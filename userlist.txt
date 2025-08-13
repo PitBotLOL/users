@@ -1,1 +1,1 @@
-['<@&1398743332385067172>', 'marquder', 'skillcapofpit']
+['marquder', 'skillcapofpit']
