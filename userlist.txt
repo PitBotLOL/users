@@ -1,1 +1,1 @@
-['stevcn', 'Pindostan']
+['Pindostan']
