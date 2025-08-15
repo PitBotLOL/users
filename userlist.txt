@@ -1,1 +1,1 @@
-['freakymode', 'stevcn', 'Pindostan']
+['stevcn', 'Pindostan']
