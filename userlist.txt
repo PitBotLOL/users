@@ -1,1 +1,1 @@
-['luxurycore', 'dernoob10', 'marquder', 'odd_look33']
+['luxurycore', 'dernoob10', 'odd_look33']
