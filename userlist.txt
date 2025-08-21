@@ -1,1 +1,1 @@
-['iBeastmodePit', 'luxurycore', 'dernoob10']
+['luxurycore', 'dernoob10']
