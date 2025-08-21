@@ -1,1 +1,1 @@
-['wordpass']
+['wordpass', 'iBeastmodePit']
