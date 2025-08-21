@@ -1,1 +1,1 @@
-['wordpass', 'iBeastmodePit']
+['wordpass', 'iBeastmodePit', 'luxurycore']
