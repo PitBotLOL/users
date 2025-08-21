@@ -1,1 +1,1 @@
-['luxurycore', 'dernoob10', 'lavaluminary', 'FairyTqil']
+['luxurycore', 'dernoob10', 'FairyTqil']
